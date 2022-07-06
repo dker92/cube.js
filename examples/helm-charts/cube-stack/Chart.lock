@@ -1,0 +1,9 @@
+dependencies:
+- name: cubejs
+  repository: file://../cubejs
+  version: 0.1.0
+- name: cubestore
+  repository: file://../cubestore
+  version: 0.1.0
+digest: sha256:47be6601c9975f7102f2e16b93bfd950fe39a2ad05d16f13f031939f822dfe9b
+generated: "2022-07-06T14:14:30.023458+02:00"
